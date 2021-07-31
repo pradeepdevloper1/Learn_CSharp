@@ -1,0 +1,15 @@
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.exe
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.deps.json
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.dll
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\ref\formatException1.dll
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\bin\Debug\net5.0\formatException1.pdb
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.dll
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\ref\formatException1.dll
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.pdb
+D:\Pradeep_Learning\Learn_Csharp\formatException1\formatException1\obj\Debug\net5.0\formatException1.genruntimeconfig.cache

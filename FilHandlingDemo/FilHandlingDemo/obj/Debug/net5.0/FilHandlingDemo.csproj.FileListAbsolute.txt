@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.exe
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.deps.json
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.dll
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\ref\FilHandlingDemo.dll
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\bin\Debug\net5.0\FilHandlingDemo.pdb
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.dll
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\ref\FilHandlingDemo.dll
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.pdb
+D:\Pradeep_Learning\Learn_Csharp\FilHandlingDemo\FilHandlingDemo\obj\Debug\net5.0\FilHandlingDemo.genruntimeconfig.cache

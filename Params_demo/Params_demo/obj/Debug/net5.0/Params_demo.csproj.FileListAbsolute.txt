@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.exe
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.dll
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\ref\Params_demo.dll
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\bin\Debug\net5.0\Params_demo.pdb
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.dll
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\ref\Params_demo.dll
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.pdb
+D:\Pradeep_Learning\Learn_Csharp\Params_demo\Params_demo\obj\Debug\net5.0\Params_demo.genruntimeconfig.cache

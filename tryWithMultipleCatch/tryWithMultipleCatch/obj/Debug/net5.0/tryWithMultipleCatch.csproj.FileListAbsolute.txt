@@ -1,0 +1,15 @@
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.exe
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.deps.json
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.dll
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\ref\tryWithMultipleCatch.dll
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\bin\Debug\net5.0\tryWithMultipleCatch.pdb
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.dll
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\ref\tryWithMultipleCatch.dll
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.pdb
+D:\Pradeep_Learning\Learn_Csharp\tryWithMultipleCatch\tryWithMultipleCatch\obj\Debug\net5.0\tryWithMultipleCatch.genruntimeconfig.cache

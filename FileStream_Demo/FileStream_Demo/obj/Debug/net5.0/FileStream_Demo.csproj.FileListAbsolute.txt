@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.exe
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.deps.json
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.dll
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\ref\FileStream_Demo.dll
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\bin\Debug\net5.0\FileStream_Demo.pdb
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.dll
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\ref\FileStream_Demo.dll
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.pdb
+D:\Pradeep_Learning\Learn_Csharp\FileStream_Demo\FileStream_Demo\obj\Debug\net5.0\FileStream_Demo.genruntimeconfig.cache

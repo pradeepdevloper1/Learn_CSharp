@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4eVTLgSlGuZR0Fwn1RKWZiwB5nCdgByYyng150q0Ru35PHos2Yjphpqt9AEFRxqXXBbtF/VUg1X8Jt4CbgwOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Csharp\\IntroductionToCSHARP\\IntroductionToCSHARP\\IntroductionToCSHARP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyStreamWriter/1.0.0": {
+        "runtime": {
+          "MyStreamWriter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyStreamWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

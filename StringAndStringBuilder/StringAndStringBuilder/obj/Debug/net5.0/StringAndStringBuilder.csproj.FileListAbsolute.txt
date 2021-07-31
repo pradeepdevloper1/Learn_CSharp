@@ -1,0 +1,15 @@
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.exe
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.deps.json
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.dll
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\ref\StringAndStringBuilder.dll
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.pdb
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.dll
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\ref\StringAndStringBuilder.dll
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.pdb
+D:\Pradeep_Learning\Learn_Csharp\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.genruntimeconfig.cache

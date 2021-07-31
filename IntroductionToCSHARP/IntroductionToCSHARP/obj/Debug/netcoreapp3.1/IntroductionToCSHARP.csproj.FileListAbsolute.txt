@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.exe
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.deps.json
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.dll
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\bin\Debug\netcoreapp3.1\IntroductionToCSHARP.pdb
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.dll
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.pdb
+C:\Users\Administrator\Desktop\Csharp\IntroductionToCSHARP\IntroductionToCSHARP\obj\Debug\netcoreapp3.1\IntroductionToCSHARP.genruntimeconfig.cache

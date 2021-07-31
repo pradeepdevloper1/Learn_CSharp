@@ -1,0 +1,15 @@
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.exe
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.deps.json
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\ref\multiple_inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\bin\Debug\net5.0\multiple_inheritance.pdb
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\ref\multiple_inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.pdb
+D:\Pradeep_Learning\Learn_Csharp\multiple_inheritance\multiple_inheritance\obj\Debug\net5.0\multiple_inheritance.genruntimeconfig.cache

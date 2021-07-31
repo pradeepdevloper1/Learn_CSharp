@@ -1,0 +1,12 @@
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.exe
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.dll
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.dll
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.pdb
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\bin\Debug\netcoreapp3.1\Encapsulation1.pdb
+D:\Pradeep_Learning\Learn_Csharp\Encapsulation1\Encapsulation1\obj\Debug\netcoreapp3.1\Encapsulation1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.exe
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.deps.json
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.dll
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\bin\Debug\netcoreapp3.1\CSharpOOPSConcept2.pdb
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.csprojAssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.dll
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.pdb
+D:\Pradeep_Learning\Learn_Csharp\CSharpOOPSConcept2\CSharpOOPSConcept2\obj\Debug\netcoreapp3.1\CSharpOOPSConcept2.genruntimeconfig.cache

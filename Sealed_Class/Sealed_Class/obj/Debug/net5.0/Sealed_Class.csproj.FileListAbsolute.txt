@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.exe
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\ref\Sealed_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\bin\Debug\net5.0\Sealed_Class.pdb
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\ref\Sealed_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.pdb
+D:\Pradeep_Learning\Learn_Csharp\Sealed_Class\Sealed_Class\obj\Debug\net5.0\Sealed_Class.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.exe
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.deps.json
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.dll
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\ref\GenericList2.dll
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\bin\Debug\net5.0\GenericList2.pdb
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.dll
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\ref\GenericList2.dll
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.pdb
+D:\Pradeep_Learning\Learn_Csharp\GenericList2\GenericList2\obj\Debug\net5.0\GenericList2.genruntimeconfig.cache

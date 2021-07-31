@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.exe
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\ref\Interface_Inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\bin\Debug\net5.0\Interface_Inheritance.pdb
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\ref\Interface_Inheritance.dll
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.pdb
+D:\Pradeep_Learning\Learn_Csharp\Interface_Inheritance\Interface_Inheritance\obj\Debug\net5.0\Interface_Inheritance.genruntimeconfig.cache

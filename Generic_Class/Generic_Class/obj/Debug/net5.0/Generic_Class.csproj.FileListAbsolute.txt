@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.exe
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\ref\Generic_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\bin\Debug\net5.0\Generic_Class.pdb
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\ref\Generic_Class.dll
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.pdb
+D:\Pradeep_Learning\Learn_Csharp\Generic_Class\Generic_Class\obj\Debug\net5.0\Generic_Class.genruntimeconfig.cache

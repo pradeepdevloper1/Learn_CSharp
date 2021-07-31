@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.exe
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.deps.json
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.dll
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\ref\MyStreamWriter.dll
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\bin\Debug\net5.0\MyStreamWriter.pdb
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.dll
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\ref\MyStreamWriter.dll
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.pdb
+D:\Pradeep_Learning\Learn_Csharp\MyStreamWriter\MyStreamWriter\obj\Debug\net5.0\MyStreamWriter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.exe
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.deps.json
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.dll
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\ref\STATIC_PROPERTY.dll
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\bin\Debug\net5.0\STATIC_PROPERTY.pdb
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.dll
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\ref\STATIC_PROPERTY.dll
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.pdb
+D:\Pradeep_Learning\Learn_Csharp\STATIC_PROPERTY\STATIC_PROPERTY\obj\Debug\net5.0\STATIC_PROPERTY.genruntimeconfig.cache

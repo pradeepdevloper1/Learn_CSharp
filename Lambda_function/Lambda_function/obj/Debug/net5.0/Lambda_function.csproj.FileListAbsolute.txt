@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.exe
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.dll
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\ref\Lambda_function.dll
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\bin\Debug\net5.0\Lambda_function.pdb
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.dll
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\ref\Lambda_function.dll
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.pdb
+D:\Pradeep_Learning\Learn_Csharp\Lambda_function\Lambda_function\obj\Debug\net5.0\Lambda_function.genruntimeconfig.cache

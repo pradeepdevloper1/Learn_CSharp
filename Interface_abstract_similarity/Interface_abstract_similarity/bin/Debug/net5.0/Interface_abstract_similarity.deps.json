@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Interface_abstract_similarity/1.0.0": {
+        "runtime": {
+          "Interface_abstract_similarity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface_abstract_similarity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

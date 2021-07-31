@@ -1,0 +1,16 @@
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\Pradeep_Learning\Learn_Csharp\Abstraction\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.exe
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.deps.json
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.runtimeconfig.json
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.runtimeconfig.dev.json
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.dll
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\bin\Debug\netcoreapp3.1\PROPERTIES.pdb
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.csproj.AssemblyReference.cache
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.AssemblyInfoInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.AssemblyInfo.cs
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.csproj.CoreCompileInputs.cache
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.dll
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.pdb
+D:\Pradeep_Learning\Learn_Csharp\PROPERTIES\PROPERTIES\obj\Debug\netcoreapp3.1\PROPERTIES.genruntimeconfig.cache
